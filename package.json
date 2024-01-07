@@ -1,0 +1,24 @@
+{
+    "name": "bidasoa-models",
+    "version": "1.0.0",
+    "description": "Colección de modelos de datos de elementos propios de Bidasoa.",
+    "keywords": [
+        "bidasoa",
+        "static-suite",
+        "models"
+    ],
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "files": [
+        "dist"
+    ],
+    "scripts": {
+        "build": "tsc"
+    },
+    "dependencies": {
+        "typescript": "^5.3.3"
+    },
+    "devDependencies": {
+        "@types/node": "^20.10.6"
+    }
+}
