@@ -1,5 +1,5 @@
 {
-    "name": "bidasoa-models",
+    "name": "@biko/bidasoa-models",
     "version": "1.0.0",
     "description": "Colección de modelos de datos de elementos propios de Bidasoa.",
     "keywords": [
